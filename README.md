@@ -6,7 +6,7 @@ Power BI Developer | Excel Guru | SQL | Google Analytic | python |Upwork Top Rat
 # 🎯 Mission
 I help organizations unlock the full potential of their data by transforming raw, complex datasets into clear, actionable insights.
 Through advanced analytics, intuitive dashboards, and automation, I streamline decision-making and improve operational efficiency.
-My mission is to bridge the gap between data and strategy—driving growth, innovation, and measurable business impact.
+My mission is to bridge the gap between data and strategy, driving growth, innovation, and measurable business impact.
 
 
 
