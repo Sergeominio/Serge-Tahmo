@@ -68,6 +68,8 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 📅 Fiverr: https://www.fiverr.com/s/XLvDKvG
 
 
+"Transforming data into decisions that matter."
+Let's connect! 🚀
 
 # ⭐ Top Feedback
 “Serge is absolutely an Excel genius. Fast, efficient, and insightful.” – Joel T., USA
@@ -78,5 +80,3 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 
 
 
-"Transforming data into decisions that matter."
-Let's connect! 🚀
