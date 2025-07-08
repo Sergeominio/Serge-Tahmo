@@ -18,13 +18,21 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 
 # 💼 Core Services
 ✔️ Power BI Dashboards | DAX & Modeling
+
 ✔️ Advanced Excel Tools (Pivot Tables, Power Query, Formulas)
+
 ✔️ Data Cleaning, Wrangling & Transformation
+
 ✔️ SQL Data Analysis (MySQL, MS SQL, PostgreSQL)
+
 ✔️ Business Analysis & Reporting Automation
+
 ✔️ Financial Modeling & Cost Analysis
+
 ✔️ PowerPoint Presentations & Custom Templates
+
 ✔️ KPI Development & Performance Dashboards
+
 ✔️ Bookkeeping & Year-End Reporting
 
 
