@@ -38,13 +38,45 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 
 
 # 🛠️ Skills & Tools
-- Languages: SQL, DAX, VBA, Python (Pandas, Numpy), R
-- Analytics: Power BI, Excel, Tableau, Looker Studio, Google Analytics, BigQuery
-- Data Handling: ETL, Data Wrangling, Data Cleansing, Data Mapping
-- Modeling: Predictive Analysis, Regression, A/B Testing, Forecasting
-- Tools: Power Query, Apache Spark, Alteryx, SAS, Stata, MATLAB
-- Soft Skills: Problem-Solving, Critical Thinking, Time Management, Stakeholder Communication
+- Languages:
+  - SQL
+  - DAX
+  - VBA
+  - Python (Pandas, Numpy)
+    
+- Analytics:
+  - Microsoft Power BI
+  - Microsoft Excel
+  - Tableau
+  - Looker Studio
+  - Google Analytics
+  - BigQuery
+     
+- Data Handling:
+  - ETL,
+  - Data Wrangling
+  - Data Cleansing
+  - Data Mapping
+ 
+- Modeling:
+  - Predictive Analysis
+  - Regression
+  - A/B Testing
+  - Forecasting
 
+    
+- Tools:
+  - Power Query
+  - Apache Spark
+  - Alteryx, SAS,
+  - Stata, MATLAB
+ 
+    
+- Soft Skills:
+  - Problem-Solving
+  - Critical Thinking
+  - Time Management
+  - Stakeholder Communication
 
 
 
