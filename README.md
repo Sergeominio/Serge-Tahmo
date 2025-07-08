@@ -57,7 +57,9 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 
 # 📫 Let’s Connect!
 📩 Email: sergeominio1@gmqail.com
+
 🌐 Portfolio: https://sites.google.com/view/sergetahmo/home
+
 🔗 LinkedIn: https://www.upwork.com/freelancers/serget2?mp_source=share
 
 
