@@ -97,7 +97,8 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 
 🎯 LinkedIn: www.linkedin.com/in/serge-tahmo
 
-📅 Fiverr: https://www.fiverr.com/s/XLvDKvG
+📅 Fiverr: www.fiverr.com/share/80DZ4E
+
 
 
 "Transforming data into decisions that matter."
