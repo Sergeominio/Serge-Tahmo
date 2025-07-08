@@ -68,14 +68,14 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 
 🌐 Portfolio: https://sites.google.com/view/sergetahmo/home
 
-🔗 Upwork: https://www.upwork.com/freelancers/serget2?mp_source=share
+✅ Upwork: https://www.upwork.com/freelancers/serget2?mp_source=share
 
-📚 LinkedIn: www.linkedin.com/in/serge-tahmo
+🎯 LinkedIn: www.linkedin.com/in/serge-tahmo
 
-![image](https://github.com/user-attachments/assets/5bf41661-5cc6-41db-9517-ce35edf5e3d5)
+📅 Fiverr: https://www.fiverr.com/s/XLvDKvG
 
 
 
 
 "Transforming data into decisions that matter."
-Thanks for stopping by! 🚀
+Let's connect! 🚀
