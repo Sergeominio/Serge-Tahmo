@@ -37,13 +37,6 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 
 
 
-# ⭐ Top Feedback
-“Serge is absolutely an Excel genius. Fast, efficient, and insightful.” – Joel T., USA
-“A brilliant data analyst and a true collaborator. Highly recommend!” – Callum H., UK
-“Delivered an advanced Excel/VBA dashboard ahead of schedule. Incredible!” – Clement B., Business Consultant
-
-
-
 # 🛠️ Skills & Tools
 - Languages: SQL, DAX, VBA, Python (Pandas, Numpy), R
 - Analytics: Power BI, Excel, Tableau, Looker Studio, Google Analytics, BigQuery
@@ -74,6 +67,14 @@ I'm a Microsoft Certified Power BI Developer, Excel Expert, and Google Analytics
 
 📅 Fiverr: https://www.fiverr.com/s/XLvDKvG
 
+
+
+# ⭐ Top Feedback
+“Serge is absolutely an Excel genius. Fast, efficient, and insightful.” – Joel T., USA
+
+“A brilliant data analyst and a true collaborator. Highly recommend!” – Callum H., UK
+
+“Delivered an advanced Excel/VBA dashboard ahead of schedule. Incredible!” – Clement B., Business Consultant
 
 
 
