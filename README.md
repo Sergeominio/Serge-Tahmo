@@ -1,6 +1,5 @@
 # Hi, I'm Serge Tahmo
-Power BI Consultant | Excel & SQL Specialist | Data Visualization Expert | Top Rated Plus
-
+Power BI Developer | Excel Guru | SQL | Google Analytic | python |Upwork Top Rated Plus
 
 
 
